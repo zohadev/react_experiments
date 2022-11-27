@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+  background-color: rgb(37, 37, 37);
+}
+.circle {
+  border-radius: 100%;
+  background-color: rgb(218, 255, 86);
+  height: 8px;
+  width: 8px;
+  position: absolute;
+}
